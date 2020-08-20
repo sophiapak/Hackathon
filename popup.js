@@ -21,7 +21,8 @@ document.addEventListener( 'DOMContentLoaded', function() {
       // reassign currentPic with the new image from dogPics from GET request
       currentPic = dogPics.message;
       // reassign our previousPic to any picture (I just put my doggos as a place holder)
-      previousPic = 'furbabies.png'    })
+      previousPic = 'https://httpstatusdogs.com/img/404.jpg';
+    });
 });
 
 // add event listener for hover --> as long as cursor is hovering over dogpics, we want to continuously put in a fetch get request
