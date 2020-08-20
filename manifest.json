@@ -1,0 +1,7 @@
+{
+    "name": "Pets Extension",
+    "version": "1.0",
+    "description": "daily cute photos of pets",
+    "browser_action": {"default_icon":"dog.png","default_popup":"popup.html"},
+    "manifest_version": 2
+}
