@@ -1,7 +1,7 @@
 {
-    "name": "Pets Extension",
+    "name": "Woof",
     "version": "1.0",
-    "description": "daily cute photos of pets",
+    "description": "An endless stream of cute dogs",
     "browser_action": {"default_icon":"dog.png","default_popup":"popup.html"},
     "manifest_version": 2
 }
